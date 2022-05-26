@@ -1,4 +1,4 @@
-# Gluttonous Snake
+# TSSnake
 
 ## Install
 ```shell
