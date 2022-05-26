@@ -1,4 +1,4 @@
-# TSSnake
+# TS-Snake
 
 ## Install
 ```shell
