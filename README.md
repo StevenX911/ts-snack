@@ -19,4 +19,4 @@ npm run build
 
 ## Preview
 
-![](./public/img/preview.png)
+> 参见preview
